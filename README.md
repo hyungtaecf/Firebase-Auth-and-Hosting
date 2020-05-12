@@ -3,9 +3,9 @@ Net Ninja Tutorial
 
 It is hosted on https://ninja-firestore-tut-9b57d.web.app/
 
-Studied Contents through this project:
+## Studied Contents
 
-## Firebase Auth
+### Firebase Auth
 - How Firebase Auth Works
 - Setting up Firebase Locally
 - Creating New Users
@@ -29,7 +29,7 @@ Studied Contents through this project:
 - Securing the Cloud Function
 - Catching Auth Errors
 
-## Firebase Hosting
+### Firebase Hosting
 - Installation
 - Initializing
 - Deploying a Static Website
